@@ -8,4 +8,8 @@ Licenciado en Matemáticas y Maestro en Ciencias Computacionales por parte del C
 El análisis de datos es muy amplio, ya que esta inicia en la recolección de los datos, pasando por la exploración de estos (en inglés es Exploratory Data Analysis - EDA), limpieza, preprocesamiento, transformaciones, etc., con el fin de utilizarlos, ya sea para que ayuden a obtener una interpretación y comunicar los resultados con el fin de tomar decisiones (en inglés Data Driven) o bien para desarrollar algún modelo de inteligecia artificial. A continuación se muestran prácticas que se centran principalmente en estas técnicas.
 
 * [Challenges IA Center - BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center)
- 
+
+ ### Ciencia de datos (Data Science)
+El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos parapredecir el futuro o descubrir relaciones ocultas en los datos.
+
+
