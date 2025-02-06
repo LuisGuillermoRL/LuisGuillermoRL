@@ -1,6 +1,6 @@
 # Hola, soy Luis Guillermo! :bowtie:
 
-Licenciado en Matemáticas y Maestro en Ciencias Computacionales por parte del Centro de Investigación en Ciencias y Estudios Superiores de Ensenada, Baja California (CICESE). Durante estos últimos 2 años he estado aprendiendo aprendizaje máquina, aprendizaje profundo y ciencia de datos, por lo que aquí podrás encontrar algunas prácticas y experimentos relacionados con estos temas, incluídos los que realicé en mi posgrado y los que me ayudaron a realizar mi tesis, en la cual pude combinar el aprendizaje de máquina (Machine Learning - ML en inglés) y el aprendizaje profundo (Deep Learning - DL en inglés).
+Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de Puebla (BUAP) y Maestro en Ciencias Computacionales por parte del Centro de Investigación en Ciencias y Estudios Superiores de Ensenada, Baja California (CICESE). Durante estos últimos 2 años he estado aprendiendo aprendizaje máquina, aprendizaje profundo y ciencia de datos, por lo que aquí podrás encontrar algunas prácticas y experimentos relacionados con estos temas, incluídos los que realicé en mi posgrado y los que me ayudaron a realizar mi tesis, en la cual pude combinar el aprendizaje de máquina (Machine Learning - ML en inglés) y el aprendizaje profundo (Deep Learning - DL en inglés).
 
 ## Proyectos/Prácticas Principales
 
