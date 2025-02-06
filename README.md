@@ -21,7 +21,7 @@ incluyen la clasificación de anormalidades y la detección temprana del cáncer
 
 ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
 
-### :wrench: :nut_and_bolt: :hammer: Red BAyesiana :wrench: :nut_and_bolt: :hammer:
+### :wrench: :nut_and_bolt: :hammer: Red Bayesiana :wrench: :nut_and_bolt: :hammer:
 
 Una Red Bayesiana (RB) es un modelo probabilístico gráfico que representa un conjunto de variables y sus dependencias condicionales mediante un grafo dirigido acíclico (DAG). Se basa en el Teorema de Bayes y permite crear inferencias sobre ciertos conjuntos de datos en tanto se tenga un DAG propuesto y los datos. Características:
 - Cada nodo tiene una Distribución de Probabilidad Condicional (CPT - Conditional Probability Table) que describe cómo depende de sus padres en el grafo.
