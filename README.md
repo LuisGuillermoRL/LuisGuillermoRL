@@ -15,8 +15,17 @@ El rol de un científico de datos es más técnico y amplio que el de un analist
 * [Materia de: Ciencia de Datos para Sensores Inteligentes](https://github.com/LuisGuillermoRL/Practicas_CDSI)
 * [Prácticas IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML)
 
-### :wrench: :nut_and_bolt: :hammer: Tesis (combinación del aprendizaje de máquina con el aprendizaje profundo) :wrench: :nut_and_bolt: :hammer:
+### :wrench: :nut_and_bolt: :hammer: Tesis (combinación de ML con DL) :wrench: :nut_and_bolt: :hammer:
 **Abstract:** El cáncer de mama es el cáncer más común en las mujeres y una de las principales causas de morbilidad y mortalidad, lo que lo convierte en un problema de salud con importancia mundial. La mamografía es una técnica de diagnóstico por imágenes altamente estandarizado para los programas de detección temprana del cáncer de mama, sin embargo, al día de hoy, la estimación de la densidad mamaria, la clasificación de calcificaciones y masas (clasificación de anormalidades), tanto en benignas como malignas (patologías) con evaluación visual sigue siendo un desafío debido al tejido adiposo de las mamas, por lo que se han creado distintas maneras de abordar este problema utilizando aprendizaje máquina. Cabe mencionar que en este estudio se empleó **exclusivamente la base de datos CBIS-DDSM** para realizar experimentos que
 incluyen la clasificación de anormalidades y la detección temprana del cáncer de mama, siendo este último la más relevante. Para ello, se propone el uso de métodos de aprendizaje máquina junto con aprendizaje profundo para mejorar la tasa de clasificación de modelos entrenados individualmente. Entre las técnicas exploradas se encuentran el aprendizaje por transferencia (transfer learning ), el ajuste fino (fine tuning), el uso de redes neuronales convolucionales (CNNs) como extractores de características y como clasificador final, el uso de métodos de ensamble y la exploración de modelos híbridos. Como resultado, se obtuvo un modelo con un accuraccy del 75.95% en la detección temprana del cáncer de mama, sin embargo, se seleccionó otro con un accuracy del 75.36 %, pero con una especificidad (precisión) del 81.97 %, convirtiéndose en un modelo más confiable. **Se muestra un modelo híbrido a continuación.**
 
 ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
+
+### :wrench: :nut_and_bolt: :hammer: Red BAyesiana :wrench: :nut_and_bolt: :hammer:
+
+Una Red Bayesiana (RB) es un modelo probabilístico gráfico que representa un conjunto de variables y sus dependencias condicionales mediante un grafo dirigido acíclico (DAG). Se basa en el Teorema de Bayes y permite crear inferencias sobre ciertos conjuntos de datos en tanto se tenga un DAG propuesto y los datos. Características:
+- Cada nodo tiene una Distribución de Probabilidad Condicional (CPT - Conditional Probability Table) que describe cómo depende de sus padres en el grafo.
+- Basado en el Teorema de Bayes permite actualizar las probabilidades a medida que se obtiene nueva información.
+- Dado un conjunto de observaciones, se pueden calcular probabilidades para otras variables desconocidas.
+
+
