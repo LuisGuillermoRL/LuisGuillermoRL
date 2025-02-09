@@ -2,7 +2,7 @@
 
 Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de Puebla (BUAP) y Maestro en Ciencias Computacionales por parte del Centro de Investigación en Ciencias y Estudios Superiores de Ensenada, Baja California (CICESE). Durante estos últimos 2 años he estado aprendiendo aprendizaje máquina (Machine Learning - ML en inglés), aprendizaje profundo (Deep Learning - DL en inglés) y ciencia de datos, por lo que aquí podrás encontrar algunas prácticas y experimentos relacionados con estos temas, incluídos los que realicé en mi posgrado y que me ayudaron a realizar mi tesis.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisgrl)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisgrl/)
 
 ## Proyectos/Prácticas Principales
 
