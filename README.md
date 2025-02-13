@@ -1,6 +1,6 @@
 # Hola, soy Luis Guillermo! :bowtie:
 
-Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de Puebla (BUAP) y Maestro en Ciencias Computacionales por parte del Centro de Investigación en Ciencias y Estudios Superiores de Ensenada, Baja California (CICESE). Durante estos últimos 2 años he estado aprendiendo aprendizaje máquina (Machine Learning - ML en inglés), aprendizaje profundo (Deep Learning - DL en inglés) y ciencia de datos, por lo que aquí podrás encontrar algunas prácticas y experimentos relacionados con estos temas, incluídos los que realicé en mi posgrado y que me ayudaron a realizar mi tesis.
+Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de Puebla (BUAP) y Maestro en Ciencias Computacionales por parte del Centro de Investigación en Ciencias y Estudios Superiores de Ensenada, Baja California (CICESE). Durante estos últimos 2 años he estado aprendiendo aprendizaje máquina (Machine Learning - ML), aprendizaje profundo (Deep Learning - DL) y ciencia de datos, por lo que aquí podrás encontrar algunas prácticas y experimentos relacionados con estos temas, incluídos los que realicé en mi posgrado y que me ayudaron a realizar mi tesis.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgrl/) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
@@ -33,4 +33,5 @@ Una Red Bayesiana (RB) es un modelo probabilístico gráfico que representa un c
 - Basado en el Teorema de Bayes permite actualizar las probabilidades a medida que se obtiene nueva información.
 - Dado un conjunto de observaciones, se pueden calcular probabilidades para otras variables desconocidas.
 
+[Reporte_Red_Bayesiana.pdf](https://github.com/user-attachments/files/18778520/Reporte_Red_Bayesiana.pdf)
 
