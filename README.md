@@ -24,10 +24,10 @@ incluyen la clasificación de anormalidades y la detección temprana del cáncer
 
 * Tesis en PDF [aquí](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
 * [Poster SPIE 2024.pdf](https://github.com/user-attachments/files/18778976/poster_R.pdf) Envié un Póster y redacté un paper relacionado con la **Clasificación de anormalidades (Masas vs Calcificaciones)** de cáncer de mama. Aunque este experimento no ayuda a detectar cáncer, este experimento sirvió para evaluar el rendimiento de distintas CNNs así como la exploración en la combinación del Aprendizaje de Máquina con el Aprendizaje Profundo al utilizar distintas CNNs como extractores de características. También se realizaron votaciones (soft voting) por parte de las CNNs utilizadas. Cabe mencionar que otros métodos de Ensamble utilizando ML y DL se puede ver en los otros experimentos relacionados (en la Tesis) con la detección temprana del cáncer de mama.
-* <img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
+<img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
 
 
-* **Se muestra un modelo híbrido (Ensamble de CNNs) a continuación.** ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
+* **Se muestra un modelo híbrido (Ensamble de CNNs) a continuación:** ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
 
 ### :wrench: :nut_and_bolt: :hammer: Red Bayesiana :wrench: :nut_and_bolt: :hammer: :soon:
 
