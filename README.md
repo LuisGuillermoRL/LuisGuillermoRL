@@ -12,6 +12,7 @@ El análisis de datos es muy amplio, ya que esta inicia en la recolección de lo
 
 * [Challenges IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
 * [Análisis Exploratorio (EDA) de la base de datos CBIS-DDSM](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
+<img width="611" alt="análisis" src="https://github.com/user-attachments/assets/c173ff31-7ac2-46d7-a433-e2c916b9fd7f" />
 
  ### Ciencia de datos (Data Science) :computer:
 El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos para predecir el futuro o descubrir relaciones ocultas en los datos.
