@@ -26,18 +26,24 @@ El rol de un científico de datos es más técnico y amplio que el de un analist
 * [Prácticas de ML de IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
-### Documentos Relacionados con la Tesis de Maestría: *Clasificación de anormalidades utilizando ensambles* (combinación de ML con DL)
+### Documentos Relacionados con la Tesis de Maestría: *Clasificación de anormalidades en mastografías utilizando ensambles* (combinación de ML con DL)
 **Abstract:** El cáncer de mama es el cáncer más común en las mujeres y una de las principales causas de morbilidad y mortalidad, lo que lo convierte en un problema de salud con importancia mundial. La mamografía es una técnica de diagnóstico por imágenes altamente estandarizado para los programas de detección temprana del cáncer de mama, sin embargo, al día de hoy, la estimación de la densidad mamaria, la clasificación de calcificaciones y masas (clasificación de anormalidades), tanto en benignas como malignas (patologías) con evaluación visual sigue siendo un desafío debido al tejido adiposo de las mamas, por lo que se han creado distintas maneras de abordar este problema utilizando aprendizaje máquina.
 
 * Tesis de Maestría en el [Repositorio Institucional de CICESE](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
 * Envié un [Póster](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/poster_R.pdf) :pushpin: y redacté un [paper relacionado con la **Clasificación de anormalidades (Masas vs Calcificaciones)** de cáncer de mama](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/131371H.pdf) al **SPIE (Society of Photo-Optical Instrumentation Engineers)**, el cual se llevó a cabo en los días 18-22 de Agosto del 2024. Aunque este experimento no ayuda a detectar cáncer, este sirvió para evaluar el rendimiento de distintas CNNs así como la exploración en la combinación del Aprendizaje de Máquina con el Aprendizaje Profundo al utilizar distintas CNNs como extractores de características. También se realizaron votaciones (soft voting) por parte de las CNNs utilizadas (imagen siguiente).
 <img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
 
-### Experimentos de la Tesis de Maestría (combinación de ML con DL) 🤖 :wrench: :nut_and_bolt: :hammer: :soon:
- Cabe mencionar que en este estudio se empleó **exclusivamente la base de datos CBIS-DDSM** para realizar experimentos que
-incluyen la clasificación de anormalidades y la detección temprana del cáncer de mama, siendo este último la más relevante. Para ello, se propone el uso de métodos de **aprendizaje máquina** junto con **aprendizaje profundo** para mejorar la tasa de clasificación de modelos entrenados individualmente. Entre las técnicas exploradas se encuentran el **aprendizaje por transferencia (transfer learning ), el ajuste fino (fine tuning)**, el uso de **redes neuronales convolucionales (CNNs)** como extractores de características y como clasificador final, el uso de **métodos de ensamble** y la exploración de **modelos híbridos.**
+### Código de programación de los experimentos de la Tesis de Maestría 🤖 :wrench: :nut_and_bolt: :hammer: :soon:
+En este estudio se empleó **exclusivamente la base de datos CBIS-DDSM** para realizar experimentos que
+incluyen la clasificación de anormalidades y la detección temprana del cáncer de mama, siendo este último la más relevante. Para ello, se propuso el uso de métodos de **aprendizaje máquina** junto con **aprendizaje profundo** para mejorar la tasa de clasificación de modelos entrenados individualmente. Las técnicas exploradas fueron el **aprendizaje por transferencia (transfer learning ), el ajuste fino (fine tuning)**, el uso de **redes neuronales convolucionales (CNNs)** como extractores de características y como clasificador final, el uso de **métodos de ensamble** y la exploración de **modelos híbridos.**
 
-* **Se muestra un modelo híbrido (Ensamble de CNNs) a continuación:** ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
+La experimentación se dividió en 3 grandes bloques experimentales:
+
+* **BLOQUE 1**. En esta parte se realizaron diversos experimentos utilizando 6 CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3 y DenseNet**. Las imágenes utilizadas fueron tanto las masas como calcificaciones, pero la forma en que se agruparon generó distintos experimentos para atacar el problema de detección temprana del cáncer de mamá.
+
+* Bloque 2. En esta parte se utilizaron 9 CNNs, las 6 mencionadas en el **Bloque 1** más los modelos **ResNet50V2, ResNet101V2 y el modelo ResNet152V2**. Cabe mencionar que las imágenes utilizadas fueron tanto las masas como calcificaciones, pero se agruparon de tal forma que permitieran observar si el uso de calcificaciones ayudaban a aumentar la tasa de clasificación temprana del cáncer de mama.
+
+* Bloque 2. En esta última parte se utilizaron solo las imágenes correspondiente a las masas y se exploró el uso de modelos híbridos para aumentar la tasa de clasificación temprana del cáncer de mama, basándonos en el artículo de **AUTOR**. Acontinuación **se muestra un modelo híbrido (Ensamble de CNNs):** ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
 
 ### :wrench: :nut_and_bolt: :hammer: Red Bayesiana :wrench: :nut_and_bolt: :hammer: :soon:
 
