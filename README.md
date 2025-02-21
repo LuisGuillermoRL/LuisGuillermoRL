@@ -13,7 +13,7 @@ Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de 
 El análisis de datos es muy amplio, ya que esta inicia en la recolección de los datos, pasando por la exploración de estos (en inglés es Exploratory Data Analysis - EDA), limpieza, preprocesamiento, transformaciones, etc., con el fin de utilizarlos, ya sea para que ayuden a obtener una interpretación y comunicar los resultados con el fin de tomar decisiones (en inglés Data Driven) o bien para desarrollar algún modelo de inteligecia artificial. A continuación se muestran prácticas que se centran principalmente en estas técnicas.
 
 * [Challenges IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
-![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
+![img3_ch_f](https://github.com/user-attachments/assets/1456e066-0207-4e61-989d-6df4846fd3e2)
 
 * [Análisis Exploratorio (EDA) de la base de datos CBIS-DDSM](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
 <img width="611" alt="análisis" src="https://github.com/user-attachments/assets/c173ff31-7ac2-46d7-a433-e2c916b9fd7f" />
@@ -22,7 +22,7 @@ El análisis de datos es muy amplio, ya que esta inicia en la recolección de lo
 El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos para predecir el futuro o descubrir relaciones ocultas en los datos.
 
 * [Materia de: Ciencia de Datos para Sensores Inteligentes](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
-![pract4_rf](https://github.com/user-attachments/assets/7f570ba2-598e-4bb6-87e0-7b313bf6df10)
+![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
 
 * [Prácticas IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
