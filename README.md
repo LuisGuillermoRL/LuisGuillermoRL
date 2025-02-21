@@ -26,7 +26,7 @@ El rol de un científico de datos es más técnico y amplio que el de un analist
 * [Prácticas de ML de IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
-### Documentos Relacionados con la Tesis de Maestría: (combinación de ML con DL)
+### Documentos Relacionados con la Tesis de Maestría: *Clasificación de anormalidades utilizando ensambles* (combinación de ML con DL)
 **Abstract:** El cáncer de mama es el cáncer más común en las mujeres y una de las principales causas de morbilidad y mortalidad, lo que lo convierte en un problema de salud con importancia mundial. La mamografía es una técnica de diagnóstico por imágenes altamente estandarizado para los programas de detección temprana del cáncer de mama, sin embargo, al día de hoy, la estimación de la densidad mamaria, la clasificación de calcificaciones y masas (clasificación de anormalidades), tanto en benignas como malignas (patologías) con evaluación visual sigue siendo un desafío debido al tejido adiposo de las mamas, por lo que se han creado distintas maneras de abordar este problema utilizando aprendizaje máquina.
 
 * Tesis de Maestría en el [Repositorio Institucional de CICESE](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
