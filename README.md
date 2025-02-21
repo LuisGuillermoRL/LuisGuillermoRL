@@ -24,7 +24,7 @@ El rol de un científico de datos es más técnico y amplio que el de un analist
 * [Materia de Ciencia de Datos para Sensores Inteligentes (CDSI)](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
 * ![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
 
-* [Prácticas IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
+* [Prácticas de ML de IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
 ### :wrench: :nut_and_bolt: :hammer: Tesis (combinación de ML con DL) 🤖 :wrench: :nut_and_bolt: :hammer: :soon:
