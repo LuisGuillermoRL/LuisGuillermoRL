@@ -21,8 +21,8 @@ El análisis de datos es muy amplio, ya que esta inicia en la recolección de lo
  ### Ciencia de datos (Data Science) :computer:
 El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos para predecir el futuro o descubrir relaciones ocultas en los datos.
 
-* [Materia de: Ciencia de Datos para Sensores Inteligentes](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
-![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
+* [Materia de Ciencia de Datos para Sensores Inteligentes (CDSI)](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
+* ![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
 
 * [Prácticas IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
