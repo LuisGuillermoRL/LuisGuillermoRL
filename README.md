@@ -22,7 +22,10 @@ El análisis de datos es muy amplio, ya que esta inicia en la recolección de lo
 El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos para predecir el futuro o descubrir relaciones ocultas en los datos.
 
 * [Materia de: Ciencia de Datos para Sensores Inteligentes](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
+  ![pract4_rf](https://github.com/user-attachments/assets/7f570ba2-598e-4bb6-87e0-7b313bf6df10)
+
 * [Prácticas IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
+  ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
 ### :wrench: :nut_and_bolt: :hammer: Tesis (combinación de ML con DL) 🤖 :wrench: :nut_and_bolt: :hammer: :soon:
 **Abstract:** El cáncer de mama es el cáncer más común en las mujeres y una de las principales causas de morbilidad y mortalidad, lo que lo convierte en un problema de salud con importancia mundial. La mamografía es una técnica de diagnóstico por imágenes altamente estandarizado para los programas de detección temprana del cáncer de mama, sin embargo, al día de hoy, la estimación de la densidad mamaria, la clasificación de calcificaciones y masas (clasificación de anormalidades), tanto en benignas como malignas (patologías) con evaluación visual sigue siendo un desafío debido al tejido adiposo de las mamas, por lo que se han creado distintas maneras de abordar este problema utilizando aprendizaje máquina. Cabe mencionar que en este estudio se empleó **exclusivamente la base de datos CBIS-DDSM** para realizar experimentos que
