@@ -13,7 +13,8 @@ Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de 
 El análisis de datos es muy amplio, ya que esta inicia en la recolección de los datos, pasando por la exploración de estos (en inglés es Exploratory Data Analysis - EDA), limpieza, preprocesamiento, transformaciones, etc., con el fin de utilizarlos, ya sea para que ayuden a obtener una interpretación y comunicar los resultados con el fin de tomar decisiones (en inglés Data Driven) o bien para desarrollar algún modelo de inteligecia artificial. A continuación se muestran prácticas que se centran principalmente en estas técnicas.
 
 * [Challenges IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
-  ![img3_ch_f](https://github.com/user-attachments/assets/1496a885-a99b-4dd2-8a8b-794393e7c049)
+
+![img3_ch_f](https://github.com/user-attachments/assets/1496a885-a99b-4dd2-8a8b-794393e7c049)
 
 * [Análisis Exploratorio (EDA) de la base de datos CBIS-DDSM](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
 <img width="611" alt="análisis" src="https://github.com/user-attachments/assets/c173ff31-7ac2-46d7-a433-e2c916b9fd7f" />
