@@ -4,8 +4,7 @@ Licenciado en Matemáticas por parte de la Benemérita Universidad Autónoma de 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgrl/) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-* Tesis de Licenciatura en Matemáticas en el [Repositorio Institucional de la BUAP](https://repositorioinstitucional.buap.mx/items/2e1a95c6-75ef-4637-95e3-2fdc735030c8). :ledger:
-
+* Tesis de Licenciatura en Matemáticas en el [Repositorio Institucional de la BUAP](https://repositorioinstitucional.buap.mx/items/2e1a95c6-75ef-4637-95e3-2fdc735030c8). :mortar_board:
 
 ## Proyectos/Prácticas Principales
 
@@ -32,7 +31,7 @@ El rol de un científico de datos es más técnico y amplio que el de un analist
 incluyen la clasificación de anormalidades y la detección temprana del cáncer de mama, siendo este último la más relevante. Para ello, se propone el uso de métodos de **aprendizaje máquina** junto con **aprendizaje profundo** para mejorar la tasa de clasificación de modelos entrenados individualmente. Entre las técnicas exploradas se encuentran el **aprendizaje por transferencia (transfer learning ), el ajuste fino (fine tuning)**, el uso de **redes neuronales convolucionales (CNNs)** como extractores de características y como clasificador final, el uso de **métodos de ensamble** y la exploración de **modelos híbridos.**
 
 * Tesis de Maestría en el [Repositorio Institucional de CICESE](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
-* Envié un Póster [Poster SPIE 2024.pdf](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/poster_R.pdf) :pushpin: y redacté un [paper relacionado con la **Clasificación de anormalidades (Masas vs Calcificaciones)** de cáncer de mama](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/131371H.pdf) al **SPIE (Society of Photo-Optical Instrumentation Engineers)**, el cual se llevó a cabo en los días 18-22 de Agosto del 2024. Aunque este experimento no ayuda a detectar cáncer, este sirvió para evaluar el rendimiento de distintas CNNs así como la exploración en la combinación del Aprendizaje de Máquina con el Aprendizaje Profundo al utilizar distintas CNNs como extractores de características. También se realizaron votaciones (soft voting) por parte de las CNNs utilizadas (imagen siguiente).
+* Envié un [Póster](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/poster_R.pdf) :pushpin: y redacté un [paper relacionado con la **Clasificación de anormalidades (Masas vs Calcificaciones)** de cáncer de mama](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/131371H.pdf) al **SPIE (Society of Photo-Optical Instrumentation Engineers)**, el cual se llevó a cabo en los días 18-22 de Agosto del 2024. Aunque este experimento no ayuda a detectar cáncer, este sirvió para evaluar el rendimiento de distintas CNNs así como la exploración en la combinación del Aprendizaje de Máquina con el Aprendizaje Profundo al utilizar distintas CNNs como extractores de características. También se realizaron votaciones (soft voting) por parte de las CNNs utilizadas (imagen siguiente).
 <img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
 
 
