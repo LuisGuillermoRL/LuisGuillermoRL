@@ -39,9 +39,14 @@ incluyen la clasificación de anormalidades y la detección temprana del cáncer
 
 La experimentación se dividió en 3 grandes bloques experimentales:
 
-* **[BLOQUE 1](https://github.com/LuisGuillermoRL/Distintos_Experimentos/tree/main)**. En esta parte se realizaron diversos experimentos utilizando 6 CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3 y DenseNet121**, con las cuales experimentó  **[Jaamour et al. (2023)](./docs/BCD_using_DL_Techniques.pdf)**. Las imágenes utilizadas fueron tanto las masas como calcificaciones, pero la forma en que se agruparon generó distintos experimentos para atacar el problema de detección temprana del cáncer de mamá. A continuación se muestra una imagen en la que se supervisa el correcto comportamiento de una red neuronal convolucional (**modelo InceptionV3**) en la tarea de clasificación de cáncer usando Masas.
+* **[BLOQUE 1](https://github.com/LuisGuillermoRL/Distintos_Experimentos/tree/main)**. En esta parte se realizaron diversos experimentos utilizando 6 CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3 y DenseNet121**, con las cuales experimentó  **[Jaamour et al. (2023)](./docs/BCD_using_DL_Techniques.pdf)**. Las imágenes utilizadas fueron tanto las masas como calcificaciones, pero la forma en que se agruparon generó distintos experimentos para atacar el problema de detección temprana del cáncer de mamá. A continuación se muestra una imagen en la que se supervisa el correcto comportamiento comportamiento del entrenamiento de una red neuronal convolucional (**modelo InceptionV3**) utilizando un conjunto de validación en la tarea de clasificación de cáncer usando Masas.
 
 <img width="737" alt="inceptionv3" src="https://github.com/user-attachments/assets/bfa44bab-186c-4ffb-bdf7-255fe36225a3" />
+
+A continuación se muestra una imagen en la que se supervisa el correcto comportamiento del entrenamiento de una red neuronal convolucional (**modelo ResNet50**) utilizando un conjunto de validación en la tarea de **Clasificación de anormalidades (Masas vs Calcificaciones)**.
+
+<img width="735" alt="Resnet" src="https://github.com/user-attachments/assets/e4eebd2d-3f11-47e7-b385-b936c7629cf4" />
+
 
 :wrench: :nut_and_bolt: :hammer: :soon: 	:arrow_heading_down:
 
