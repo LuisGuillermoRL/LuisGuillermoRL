@@ -41,6 +41,8 @@ La experimentación se dividió en 3 grandes bloques experimentales:
 
 * **[BLOQUE 1](https://github.com/LuisGuillermoRL/Distintos_Experimentos/tree/main)**. En esta parte se realizaron diversos experimentos utilizando 6 CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3 y DenseNet121**, con las cuales experimentó  **[Jaamour et al. (2023)](./docs/BCD_using_DL_Techniques.pdf)**. Las imágenes utilizadas fueron tanto las masas como calcificaciones, pero la forma en que se agruparon generó distintos experimentos para atacar el problema de detección temprana del cáncer de mamá.
 
+<img width="737" alt="inceptionv3" src="https://github.com/user-attachments/assets/bfa44bab-186c-4ffb-bdf7-255fe36225a3" />
+
 :wrench: :nut_and_bolt: :hammer: :soon: 	:arrow_heading_down:
 
 * **BLOQUE 2**. En esta parte se utilizaron 9 CNNs, las 6 mencionadas en el **Bloque 1** más los modelos **ResNet50V2, ResNet101V2 y el modelo ResNet152V2**. Cabe mencionar que las imágenes utilizadas fueron tanto las masas como calcificaciones, pero se agruparon de tal forma que permitieran observar si el uso de calcificaciones ayudaban a aumentar la tasa de clasificación temprana del cáncer de mama.
