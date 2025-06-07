@@ -59,5 +59,6 @@ A Bayesian Network (BN) is a probabilistic graphical model that represents a set
 - Each node has a Conditional Probability Table (CPT) that describes how it depends on its parent nodes in the graph.
 - Based on Bayes’ Theorem, it allows updating probabilities as new information becomes available.
 - Given a set of observations, it can calculate probabilities for other unknown variables.
+  
 [Report_Bayesian_Network.pdf](https://github.com/user-attachments/files/18778520/Reporte_Red_Bayesiana.pdf)
 
