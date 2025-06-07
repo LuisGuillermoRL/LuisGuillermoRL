@@ -15,16 +15,17 @@ Data analysis begins with data collection and continues through exploration, cle
 * [Challenges IA Center-BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
 ![img3_ch_f](https://github.com/user-attachments/assets/1456e066-0207-4e61-989d-6df4846fd3e2)
 
-* [Análisis Exploratorio (EDA) de la base de datos CBIS-DDSM](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
+* [Exploratory Analysis (EDA) of the CBIS-DDSM Database](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
 <img width="611" alt="análisis" src="https://github.com/user-attachments/assets/c173ff31-7ac2-46d7-a433-e2c916b9fd7f" />
 
  ### Ciencia de datos (Data Science) :computer:
-El rol de un científico de datos es más técnico y amplio que el de un analista de datos, ya que requiere el dominio de lenguajes de programación, herramientas tecnológicas avanzadas y conocimientos matemáticos como estadística y álgebra lineal. Estas habilidades le permiten diseñar e implementar modelos capaces de extraer valor de los datos para predecir el futuro o descubrir relaciones ocultas en los datos.
 
-* [Materia de Ciencia de Datos para Sensores Inteligentes (CDSI)](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
+The role of a data scientist is more technical and it requires proficiency in programming languages, advanced technological tools, and mathematical knowledge such as statistics and linear algebra. These skills enable data scientists to design and implement models capable of extracting value from data to predict future outcomes or uncover hidden relationships within the data.
+
+* [Exercises completed as part of the Ciencia de Datos para Sensores Inteligentes (CDSI) course](https://github.com/LuisGuillermoRL/Practicas_CDSI) :id:
 * ![pract2_img1](https://github.com/user-attachments/assets/f999b02a-8d05-4745-816c-463cb697df91)
 
-* [Prácticas de ML de IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
+* [ML practices designed by Bosch - IA Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 * ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
 ### Documentos Relacionados con la Tesis de Maestría: *Clasificación de anormalidades en mastografías utilizando ensambles* (combinación de ML con DL)
