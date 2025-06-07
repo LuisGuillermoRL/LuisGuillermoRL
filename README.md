@@ -49,9 +49,9 @@ Below is an image showing the monitored training behavior of a convolutional neu
 
 :wrench: :nut_and_bolt: :hammer: :soon: 	:arrow_heading_down:
 
-* **BLOQUE 2**. En esta parte se utilizaron 9 CNNs, las 6 mencionadas en el **Bloque 1** más los modelos **ResNet50V2, ResNet101V2 y el modelo ResNet152V2**. Cabe mencionar que las imágenes utilizadas fueron tanto las masas como calcificaciones, pero se agruparon de tal forma que permitieran observar si el uso de calcificaciones ayudaban a aumentar la tasa de clasificación temprana del cáncer de mama.
+* **BLOCK 2**. In this section, nine CNNs were used: the six mentioned in Block 1, plus **ResNet50V2, ResNet101V2**, and **ResNet152V2**. It is worth noting that the images used included both masses and calcifications, but they were grouped in a way that allowed us to observe whether the inclusion of calcifications contributed to improving the early breast cancer classification rate.
 
-* **BLOQUE 3**. En esta última parte se utilizaron solo las imágenes correspondiente a las masas y se exploró el uso de modelos híbridos para aumentar la tasa de clasificación temprana del cáncer de mama, basándonos en el artículo de **AUTOR**. A continuación **se muestra un modelo híbrido (Ensamble de CNNs):** ![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
+* **BLOCK 3**. In the final part, only images corresponding to masses were used, and the focus was on exploring hybrid models to increase the early breast cancer classification rate. Below is an example of a hybrid model (an *Ensemble* of ResNet50V2, ResNet101V2, and ResNet152V2 models).![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
 
 ### :wrench: :nut_and_bolt: :hammer: Red Bayesiana :wrench: :nut_and_bolt: :hammer: :soon:
 
