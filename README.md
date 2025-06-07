@@ -18,7 +18,7 @@ Data analysis begins with data collection and continues through exploration, cle
 * [Exploratory Analysis (EDA) of the CBIS-DDSM Database](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
 <img width="611" alt="análisis" src="https://github.com/user-attachments/assets/c173ff31-7ac2-46d7-a433-e2c916b9fd7f" />
 
- ### Ciencia de datos (Data Science) :computer:
+ ### Data Science :computer:
 
 The role of a data scientist is more technical and it requires proficiency in programming languages, advanced technological tools, and mathematical knowledge such as statistics and linear algebra. These skills enable data scientists to design and implement models capable of extracting value from data to predict future outcomes or uncover hidden relationships within the data.
 
@@ -28,12 +28,11 @@ The role of a data scientist is more technical and it requires proficiency in pr
 * [ML practices designed by Bosch - IA Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA-Center-ML) :star2:
 * ![pract1](https://github.com/user-attachments/assets/be955cc3-489b-4fcd-864b-3af4a535be3f)
 
-### Documentos Relacionados con la Tesis de Maestría: *Clasificación de anormalidades en mastografías utilizando ensambles* (combinación de ML con DL)
-**Abstract:** El cáncer de mama es el cáncer más común en las mujeres y una de las principales causas de morbilidad y mortalidad, lo que lo convierte en un problema de salud con importancia mundial. La mamografía es una técnica de diagnóstico por imágenes altamente estandarizado para los programas de detección temprana del cáncer de mama, sin embargo, al día de hoy, la estimación de la densidad mamaria, la clasificación de calcificaciones y masas (clasificación de anormalidades), tanto en benignas como malignas (patologías) con evaluación visual sigue siendo un desafío debido al tejido adiposo de las mamas, por lo que se han creado distintas maneras de abordar este problema utilizando aprendizaje máquina.
+### Documents Related to the Master’s Thesis: Classification of Abnormalities in Mammograms Using Ensembles (a combination of ML and DL)
+**Abstract:** Breast cancer is the most common cancer among women and one of the leading causes of morbidity and mortality, making it a global health concern. Mammography is a highly standardized imaging diagnostic technique used in early breast cancer detection programs. However, the visual assessment of breast density, classification of calcifications and masses (abnormality classification), both benign and malignant (pathologies), remains challenging due to the adipose tissue in the breasts. To address this issue, various approaches have been developed using machine learning.
 
-* Tesis de Maestría en el [Repositorio Institucional de CICESE](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
-* Envié un [póster](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/poster_R.pdf) :pushpin: y redacté un [paper](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/131371H.pdf)  relacionado con la **Clasificación de anormalidades (Masas vs Calcificaciones)** de cáncer de mama al **SPIE (Society of Photo-Optical Instrumentation Engineers)**, el cual se llevó a cabo en los días 18-22 de Agosto del 2024. Aunque este experimento no ayuda a detectar cáncer, este sirvió para evaluar el rendimiento de distintas CNNs así como la exploración en la combinación del Aprendizaje de Máquina con el Aprendizaje Profundo al utilizar distintas CNNs como extractores de características. También se realizaron votaciones (soft voting) por parte de las CNNs utilizadas (imagen siguiente).
-<img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
+* Master's Thesis available in [CICESE Institutional Repository](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756) :mortar_board:
+* I submitted a [poster](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/poster_R.pdf) :pushpin: and wrote a [paper](https://github.com/LuisGuillermoRL/Docs_escritos/blob/main/131371H.pdf) related to the **Classification of breast cancer abnormalities (Masses vs. Calcifications)** to **SPIE (Society of Photo-Optical Instrumentation Engineers)**, which took place from August 18–22, 2024. Although this experiment does not aim to detect cancer, it was useful for evaluating the performance of various CNNs and exploring the combination of Machine Learning with Deep Learning. Soft voting was also applied using the CNNs involved (see next image). <img width="563" alt="Voting_spie" src="https://github.com/user-attachments/assets/37693a57-6da5-43a1-82cd-67bffd0362f2" />
 
 ### Código de programación de los experimentos de la Tesis de Maestría 🤖 
 En este estudio se empleó **exclusivamente la base de datos CBIS-DDSM** para realizar experimentos que
