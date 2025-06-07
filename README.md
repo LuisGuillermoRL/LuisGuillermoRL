@@ -40,11 +40,10 @@ This study exclusively used the **CBIS-DDSM database** to conduct experiments fo
 
 The experimentation was divided into three main blocks:
 
-* **[BLOCK 1](https://github.com/LuisGuillermoRL/Distintos_Experimentos/tree/main)**. In this phase, several experiments were conducted using six CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3**, and **DenseNet121**. The images used included both masses and calcifications, but the way they were grouped resulted in different experiments aimed at addressing the problem of early breast cancer detection. Below is an image illustrating the supervised training behavior of a convolutional neural network (**InceptionV3 model**) using a validation set in the task of cancer classification with mass images.
+* **[BLOCK 1](https://github.com/LuisGuillermoRL/Distintos_Experimentos/tree/main)**. In this phase, several experiments were conducted using six CNNs: **VGG19, VGG16, ResNet50, MobileNetV2, InceptionV3**, and **DenseNet121**. The images used included both masses and calcifications, but the way they were grouped resulted in different experiments aimed at addressing the problem of early breast cancer detection. Below is an image illustrating the supervised training behavior of a convolutional neural network (**InceptionV3 model**) using a validation set in the **task of cancer classification with mass images**.
 <img width="737" alt="inceptionv3" src="https://github.com/user-attachments/assets/bfa44bab-186c-4ffb-bdf7-255fe36225a3" />
 
-A continuación se muestra una imagen en la que se supervisa el correcto comportamiento del entrenamiento de una red neuronal convolucional (**modelo ResNet50**) utilizando un conjunto de validación en la tarea de **Clasificación de anormalidades (Masas vs Calcificaciones)**.
-
+Below is an image showing the monitored training behavior of a convolutional neural network (**ResNet50 model**) using a validation set for the **task of abnormality classification (Masses vs. Calcifications)**.
 <img width="735" alt="Resnet" src="https://github.com/user-attachments/assets/e4eebd2d-3f11-47e7-b385-b936c7629cf4" />
 
 
