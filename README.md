@@ -6,7 +6,7 @@ I have a bachelor's degree in Mathematics from Benemérita Universidad Autónoma
 
 * Bachelor’s Thesis in Mathematics available in [BUAP’s Institutional Repository](https://repositorioinstitucional.buap.mx/items/2e1a95c6-75ef-4637-95e3-2fdc735030c8). :mortar_board:
 
-## Proyectos/Prácticas Principales
+## Main Projects/Practices
 
 ### Análisis de datos (Data Analysis) :bar_chart: :chart_with_upwards_trend:
 El análisis de datos es muy amplio, ya que esta inicia en la recolección de los datos, pasando por la exploración de estos (en inglés es Exploratory Data Analysis - EDA), limpieza, preprocesamiento, transformaciones, etc., con el fin de utilizarlos, ya sea para que ayuden a obtener una interpretación y comunicar los resultados con el fin de tomar decisiones (en inglés Data Driven) o bien para desarrollar algún modelo de inteligecia artificial. A continuación se muestran prácticas que se centran principalmente en estas técnicas.
