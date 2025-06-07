@@ -49,16 +49,15 @@ Below is an image showing the monitored training behavior of a convolutional neu
 
 :wrench: :nut_and_bolt: :hammer: :soon: 	:arrow_heading_down:
 
-* **BLOCK 2**. In this section, nine CNNs were used: the six mentioned in Block 1, plus **ResNet50V2, ResNet101V2**, and **ResNet152V2**. It is worth noting that the images used included both masses and calcifications, but they were grouped in a way that allowed us to observe whether the inclusion of calcifications contributed to improving the early breast cancer classification rate.
+* **BLOCK 2**. In this section, nine CNNs were used: the six mentioned in **Block 1**, plus **ResNet50V2, ResNet101V2**, and **ResNet152V2**. It is worth noting that the images used included both masses and calcifications, but they were grouped in a way that allowed us to observe whether the inclusion of calcifications contributed to improving the early breast cancer classification rate.
 
-* **BLOCK 3**. In the final part, only images corresponding to masses were used, and the focus was on exploring hybrid models to increase the early breast cancer classification rate. Below is an example of a hybrid model (an *Ensemble* of ResNet50V2, ResNet101V2, and ResNet152V2 models).![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
+* **BLOCK 3**. In the final part, only images corresponding to masses were used, and the focus was on exploring hybrid models to increase the early breast cancer classification rate. Below is an example of a hybrid model (an **Ensemble** of ResNet50V2, ResNet101V2, and ResNet152V2 models).![Ensamble](https://github.com/user-attachments/assets/ad6982fd-f19f-49fc-be95-e56979d741de)
 
-### :wrench: :nut_and_bolt: :hammer: Red Bayesiana :wrench: :nut_and_bolt: :hammer: :soon:
+### :wrench: :nut_and_bolt: :hammer: Bayesian Network (BN) :wrench: :nut_and_bolt: :hammer: :soon:
 
-Una Red Bayesiana (RB) es un modelo probabilístico gráfico que representa un conjunto de variables y sus dependencias condicionales mediante un grafo dirigido acíclico (DAG). Se basa en el Teorema de Bayes y permite crear inferencias sobre ciertos conjuntos de datos en tanto se tenga un DAG propuesto y los datos. Durante el posgrado pude construir una Red Bayesiana que fuera capaz de **predecir la deserción laboral** en base a ciertos datos y un DAG propuesto. Características:
-- Cada nodo tiene una Distribución de Probabilidad Condicional (CPT - Conditional Probability Table) que describe cómo depende de sus padres en el grafo.
-- Basado en el Teorema de Bayes permite actualizar las probabilidades a medida que se obtiene nueva información.
-- Dado un conjunto de observaciones, se pueden calcular probabilidades para otras variables desconocidas.
-
-[Reporte_Red_Bayesiana.pdf](https://github.com/user-attachments/files/18778520/Reporte_Red_Bayesiana.pdf)
+A Bayesian Network (BN) is a probabilistic graphical model that represents a set of variables and their conditional dependencies through a directed acyclic graph (DAG). It is based on Bayes' Theorem and allows for making inferences from data, provided a DAG structure and relevant data are available. During my postgraduate studies, I built a Bayesian Network capable of **predicting employee attrition** based on specific data and a proposed DAG. Key characteristics:
+- Each node has a Conditional Probability Table (CPT) that describes how it depends on its parent nodes in the graph.
+- Based on Bayes’ Theorem, it allows updating probabilities as new information becomes available.
+- Given a set of observations, it can calculate probabilities for other unknown variables.
+[Report_Bayesian_Network.pdf](https://github.com/user-attachments/files/18778520/Reporte_Red_Bayesiana.pdf)
 
