@@ -8,10 +8,11 @@ I have a bachelor's degree in Mathematics from Benemérita Universidad Autónoma
 
 ## Main Projects/Practices
 
-### Análisis de datos (Data Analysis) :bar_chart: :chart_with_upwards_trend:
-El análisis de datos es muy amplio, ya que esta inicia en la recolección de los datos, pasando por la exploración de estos (en inglés es Exploratory Data Analysis - EDA), limpieza, preprocesamiento, transformaciones, etc., con el fin de utilizarlos, ya sea para que ayuden a obtener una interpretación y comunicar los resultados con el fin de tomar decisiones (en inglés Data Driven) o bien para desarrollar algún modelo de inteligecia artificial. A continuación se muestran prácticas que se centran principalmente en estas técnicas.
+### Data Analysis :bar_chart: :chart_with_upwards_trend:
 
-* [Challenges IA-Center con BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
+Data analysis begins with data collection and continues through exploration, cleaning, preprocessing, transformations, and more (Exploratory Data Analysis – EDA). The goal is to use the data either to gain meaningful insights or to support decision-making (Data-Driven). This process can even contribute to the development of artificial intelligence models.
+
+* [Challenges IA Center-BOSCH](https://github.com/LuisGuillermoRL/Challenges_IA_Center) :star:
 ![img3_ch_f](https://github.com/user-attachments/assets/1456e066-0207-4e61-989d-6df4846fd3e2)
 
 * [Análisis Exploratorio (EDA) de la base de datos CBIS-DDSM](https://github.com/LuisGuillermoRL/EDA_CBIS-DDSM/tree/main) :chart:
